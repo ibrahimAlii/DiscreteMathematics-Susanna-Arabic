@@ -1,6 +1,6 @@
 **بسم الله الرحمن الرحيم**
 
-**سنقوم بإذن الله بترجمة كتاب الرياضة المنفصلة مع التطبيقات للمؤلف: سوسانا - Discrete Mathematics with Applications Susanna S.Epp**
+**سنقوم بإذن الله بشرح كتاب الرياضة المنفصلة مع التطبيقات للمؤلف: سوسانا - Discrete Mathematics with Applications Susanna S.Epp**
 
 
 #قائمة المحتويات:
